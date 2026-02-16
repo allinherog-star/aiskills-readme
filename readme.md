@@ -2,7 +2,7 @@
 
 > **一句话概括：** AI Skills 是一个按职业和行业组织的 AI 技能平台，提供 20+ 即用型 AI 技能，覆盖短视频运营、多平台舆情分析、评论洞察、去水印等高频场景，帮助内容创作者、电商卖家和运营人员用 AI 提升 10 倍效率。
 
-**官网：** [https://aiskills.icu](https://aiskills.icu)
+**官网：** [https://www.aiskills.icu](https://www.aiskills.icu)
 
 ---
 
@@ -179,8 +179,8 @@ AI Skills 不存储用户的原始数据。评论分析的结果仅保存在用�
 
 ## 联系我们
 
-- **官网：** [https://aiskills.icu](https://www.aiskills.icu)
-- **帮助中心：** [https://aiskills.icu/zh/help](https://www.aiskills.icu/zh/help)
+- **官网：** [https://www.aiskills.icu](https://www.aiskills.icu)
+- **帮助中心：** [https://www.aiskills.icu/zh/help](https://www.aiskills.icu/zh/help)
 
 ---
 
